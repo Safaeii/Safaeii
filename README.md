@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm a Frontend Developer</h1>
 <h3 align="center">Building modern, responsive and user-friendly web applications</h3>
 
@@ -14,6 +13,7 @@
 - 🌱 Currently improving my **TypeScript and Next.js** skills
 - 🎨 Interested in creating beautiful and responsive interfaces
 - 🚀 Passionate about building real-world web applications
+- 🔌 Learning to work with **REST APIs, Fetch API, and JSON**
 - 📍 Open to Junior Frontend Developer opportunities
 
 ---
@@ -24,21 +24,26 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
+**API & Data:** REST API, Fetch API, JSON
+
 ---
 
 ### 🚀 Featured Projects
 
 #### 🌍 Via — Travel Website
+
 A modern and responsive travel website built with Next.js, TypeScript and Tailwind CSS.
 
 🔗 [View Repository](https://github.com/Safaeii/Via)
 
 #### 🎬 CinemaPlus — Movie Website
+
 A Persian movie and TV series platform with a modern dark interface.
 
 🔗 [View Repository](https://github.com/Safaeii/sinma)
 
 #### 📊 AdminFlow — Finance Dashboard
+
 A responsive financial management dashboard built with React and Tailwind CSS.
 
 🔗 [View Repository](https://github.com/Safaeii/Admin-panel)
@@ -56,9 +61,9 @@ A responsive financial management dashboard built with React and Tailwind CSS.
 
 ### 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/Safaeii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -67,4 +72,3 @@ A responsive financial management dashboard built with React and Tailwind CSS.
 <p align="center">
   ✨ Always learning, building and improving.
 </p>
-```
