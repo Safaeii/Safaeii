@@ -1,74 +1,72 @@
-<h1 align="center">Hi 👋, I'm a Frontend Developer</h1>
-<h3 align="center">Building modern, responsive and user-friendly web applications</h3>
+# 👩‍💻 Elahe Safaeii | Frontend Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Safaeii&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
-</p>
+### Building Modern & Responsive Web Applications
 
----
-
-### 👩‍💻 About Me
-
-- 💻 Frontend Developer focused on **React & Next.js**
-- 🌱 Currently improving my **TypeScript and Next.js** skills
-- 🎨 Interested in creating beautiful and responsive interfaces
-- 🚀 Passionate about building real-world web applications
-- 🔌 Learning to work with **REST APIs, Fetch API, and JSON**
-- 📍 Open to Junior Frontend Developer opportunities
+Frontend Developer focused on building modern, responsive and user-friendly web applications using React, Next.js and TypeScript.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode,figma" />
-</p>
-
-**API & Data:** REST API, Fetch API, JSON
-
----
-
-### 🚀 Featured Projects
-
-#### 🌍 Via — Travel Website
-
-A modern and responsive travel website built with Next.js, TypeScript and Tailwind CSS.
-
-🔗 [View Repository](https://github.com/Safaeii/Via)
-
-#### 🎬 CinemaPlus — Movie Website
-
-A Persian movie and TV series platform with a modern dark interface.
-
-🔗 [View Repository](https://github.com/Safaeii/sinma)
-
-#### 📊 AdminFlow — Finance Dashboard
-
-A responsive financial management dashboard built with React and Tailwind CSS.
-
-🔗 [View Repository](https://github.com/Safaeii/Admin-panel)
+- Frontend Developer focused on React and Next.js.
+- Experienced in building responsive web interfaces.
+- Working with TypeScript, JavaScript and Tailwind CSS.
+- Familiar with REST APIs, Fetch API and JSON.
+- Interested in clean code, reusable components and application architecture.
+- Open to Junior Frontend Developer opportunities.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safaeii&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safaeii&layout=compact&theme=tokyonight" height="165" />
-</p>
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Bootstrap
+
+**Tools & Development**
+- Git & GitHub
+- REST API
+- Fetch API
+- JSON
+- Figma
+- VS Code
 
 ---
 
-### 📫 Connect With Me
+## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Safaeii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+### 🍽️ Foodora
+Recipe discovery and sharing platform built with React and TypeScript.
+
+[View Repository](https://github.com/Safaeii/Foodora)
+
+### ✈️ Via
+Modern travel website built with Next.js and TypeScript.
+
+[View Repository](https://github.com/Safaeii/Via)
+
+### 🎬 CinemaPlus
+Movie and TV series platform with a modern dark interface.
+
+[View Repository](https://github.com/Safaeii/sinma)
+
+### 💰 AdminFlow
+Personal finance dashboard built with React and JavaScript.
+
+[View Repository](https://github.com/Safaeii/Admin-panel)
 
 ---
 
-<p align="center">
-  ✨ Always learning, building and improving.
-</p>
+## 📫 Contact
+
+- GitHub: [@Safaeii](https://github.com/Safaeii)
+
+---
+
+*Always learning, building and improving.*
